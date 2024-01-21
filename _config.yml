@@ -38,8 +38,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/ggb-1.png
-      image: /uploads/ggb-1.png
+      background_image_path: /uploads/ggb-2.png
+      image: /uploads/ggb-2.png
   -
     scope:
       path: ""
